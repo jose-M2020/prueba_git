@@ -1,3 +1,3 @@
-const msg = "Bienvenido";
+const msg = "Bienvenido a la plataforma";
 
 console.log(msg);
